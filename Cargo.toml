@@ -1,0 +1,14 @@
+[package]
+name = "open_in_vscode"
+authors = [
+    "Brett Mayson"
+]
+version = "1.0.0"
+edition = "2021"
+
+[lib]
+name = "open_in_vscode"
+crate-type = ["cdylib"]
+
+[dependencies]
+arma-rs = { git = "https://github.com/brettmayson/arma-rs", features = ["uuid", "serde_json"] }

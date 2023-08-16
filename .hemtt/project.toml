@@ -1,0 +1,10 @@
+name = "Open in VS Code"
+prefix = "open_in_vscode"
+author = "Brett Mayson"
+mainprefix = "z"
+
+[version]
+git_hash = 0 # Disabled
+major = 1
+minor = 0
+patch = 0
