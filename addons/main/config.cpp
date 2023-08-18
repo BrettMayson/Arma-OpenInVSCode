@@ -8,8 +8,8 @@ class CfgPatches {
         authors[] = {"Brett Mayson"};
         author = "Brett Mayson";
         version = 1.0;
-        versionStr = "1.0.0";
-        versionAr[] = {1,0,0};
+        versionStr = "1.0.1";
+        versionAr[] = {1,0,1};
     };
 };
 

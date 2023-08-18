@@ -7,4 +7,4 @@ mainprefix = "z"
 git_hash = 0 # Disabled
 major = 1
 minor = 0
-patch = 0
+patch = 1
