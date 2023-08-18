@@ -11,4 +11,4 @@ name = "open_in_vscode"
 crate-type = ["cdylib"]
 
 [dependencies]
-arma-rs = { git = "https://github.com/brettmayson/arma-rs", features = ["uuid", "serde_json"] }
+arma-rs = { git = "https://github.com/brettmayson/arma-rs" }
